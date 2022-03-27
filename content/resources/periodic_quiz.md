@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a40c9629-ee7d-b9a3-caa4-073faba30981
 resourcetype: Document
 title: periodic_quiz.pdf
 uid: 86f15e1d-b5b7-f6da-8897-f7ecb86b05f1
