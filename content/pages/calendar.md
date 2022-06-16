@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Calendar lists the topics covered during the course, along with the assignment
+  due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
