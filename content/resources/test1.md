@@ -5,6 +5,7 @@ file: /courses/5-44-organometallic-chemistry-fall-2004/97d437cadc4f64fd2bec04c9f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: test1.pdf
 uid: 97d437ca-dc4f-64fd-2bec-04c9fbdfd451
 ---
 This resource contains 11 questions that were asked in an exam.
-
