@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Calendar lists the topics covered during the course, along with the assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 818c643a-7c6e-500c-8ecc-7392608072c2
 ---
@@ -30,7 +34,7 @@ KEY DATES
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -39,7 +43,7 @@ I. Introduction
 {{< tdopen >}}
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 {{< tdclose >}}
 
@@ -70,7 +74,7 @@ G) Ligands
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -79,7 +83,7 @@ Quiz on the periodic table
 {{< tdopen >}}
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 {{< tdclose >}}
 
@@ -183,7 +187,7 @@ I) Reductive coupling
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -198,7 +202,7 @@ I) Reductive couplings (cont.)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Problem set 2 due
 {{< tdclose >}}
 

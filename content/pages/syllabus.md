@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus includes the information regarding required readings, recommended
+  textbooks, course content, and grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9c25a8be-5070-621f-d054-eec45f2aff85
 ---

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7f5349d5-0fcf-75af-901e-cfcb73776c32
 ---
@@ -30,7 +34,7 @@ TOPICS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -85,7 +89,7 @@ The relation between formal oxidation state and d electron configuration. 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="11" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -169,7 +173,7 @@ Introduction. 
 {{< tdopen >}}
 
 
-Classic lewis base donors - N, Group VIB, and Group VIIB .
+Classic lewis base donors - N, Group VI{{< sub "B" >}}, and Group VII{{< sub "B" >}} .
 
 
 {{< tdclose >}}
@@ -185,7 +189,7 @@ Classic lewis base donors - N, Group VIB, and Group VIIB .
 {{< tdopen >}}
 
 
-Phosphines and other group VB donors. 
+Phosphines and other group V{{< sub "B" >}} donors. 
 
 
 {{< tdclose >}}
@@ -255,7 +259,7 @@ Organic ligands bound through more than one atom.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="12" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -418,7 +422,7 @@ Examples and mechanisms: Coordinatively unsaturated complexes.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="9" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -671,7 +675,7 @@ read all sections
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -706,7 +710,7 @@ read all sections
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -753,7 +757,7 @@ read all sections
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -796,7 +800,7 @@ Carbonylation reactions.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
