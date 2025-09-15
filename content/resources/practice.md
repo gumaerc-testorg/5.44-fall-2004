@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains 3 practice problems.
-file: /courses/5-44-organometallic-chemistry-fall-2004/6ec374d7b1a83fb68d6eec2360381d2f_practice.pdf
+file: /ol-ocw-studio-app/courses/5-44-organometallic-chemistry-fall-2004/6ec374d7b1a83fb68d6eec2360381d2f_practice.pdf
+file_size: 31753
 file_type: application/pdf
 learning_resource_types:
 - Assignments

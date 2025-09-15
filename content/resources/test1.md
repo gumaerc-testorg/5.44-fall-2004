@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains 11 questions that were asked in an exam.
-file: /courses/5-44-organometallic-chemistry-fall-2004/97d437cadc4f64fd2bec04c9fbdfd451_test1.pdf
+file: /ol-ocw-studio-app/courses/5-44-organometallic-chemistry-fall-2004/97d437cadc4f64fd2bec04c9fbdfd451_test1.pdf
+file_size: 138064
 file_type: application/pdf
 learning_resource_types:
 - Exams

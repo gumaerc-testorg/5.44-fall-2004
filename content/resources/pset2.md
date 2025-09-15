@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains 15 questions based on the subject.
-file: /courses/5-44-organometallic-chemistry-fall-2004/7d0ab367e7dd7da9815a58b63b6c650e_pset2.pdf
+file: /ol-ocw-studio-app/courses/5-44-organometallic-chemistry-fall-2004/7d0ab367e7dd7da9815a58b63b6c650e_pset2.pdf
+file_size: 109175
 file_type: application/pdf
 learning_resource_types:
 - Assignments
